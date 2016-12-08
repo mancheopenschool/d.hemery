@@ -1,1 +1,20 @@
-[?1049h[1;37r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6                                      Fichier : echo                                                                                  [35;66H[ Nouveau fichier ][36d^G(B[m Aide[36;26H(B[0;7m^O(B[m Écrire[36;51H(B[0;7m^R(B[m Lire fich.[36;76H(B[0;7m^Y(B[m Page préc.[36;101H(B[0;7m^K(B[m Couper[36;126H(B[0;7m^C(B[m Pos. cur.[37d(B[0;7m^X(B[m Quitter[37;26H(B[0;7m^J(B[m Justifier[37;51H(B[0;7m^W(B[m Chercher[37;76H(B[0;7m^V(B[m Page suiv.[37;101H(B[0;7m^U(B[m Coller[37;126H(B[0;7m^T(B[m Orthograp.[3d[1;142H(B[0;7mModifié[3d(B[mgit init[4dgit add README.md[5dgit commit -m "first commit"[6dgit remote add origin https://github.com/mancheopenschool/d.hemery.git[7dgit push -u origin master[35d[K[7;26Hnannnakldjnsqscq[35d(B[0;7mSauver l'espace modifié (RÉPONDRE « Non » EFFACERA LES CHANGEMENTS) ?                                                                                 [36;1H O(B[m Oui[K[37d(B[0;7m N(B[m Non    [17G(B[0;7m^C(B[m Annuler[K[35;71H(B[0;7mNom du fichier à écrire: echo                                        [36d^G(B[m Aide[36;38H(B[0;7mM-D(B[m Format DOS[36;75H(B[0;7mM-A(B[m Ajout (à la fin)[36;112H(B[0;7mM-B(B[m Copie de sécu.[37d(B[0;7m^C(B[m Annuler[17G          [37;38H(B[0;7mM-M(B[m Format Mac[37;75H(B[0;7mM-P(B[m Ajout (au début)[35;30H(B[0;7mk(B[m(B[0;7mp(B[m(B[0;7mo(B[m(B[0;7ml(B[m[C(B[0;7mj(B[m(B[0;7mk(B[m(B[0;7mj(B[m(B[0;7mk(B[m(B[0;7ml(B[m(B[0;7mj(B[m(B[0;7mk(B[m(B[0;7ml(B[m(B[0;7mj(B[m(B[0;7md(B[m(B[0;7mz(B[m(B[0;7mq(B[m(B[0;7md(B[m(B[0;7ma(B[m(B[0;7mq(B[m(B[0;7mD(B[m(B[0;7mQ(B[m(B[0;7md(B[m(B[0;7mfn(B[m[C(B[0;7m,(B[m(B[0;7md(B[m(B[0;7mf(B[m(B[0;7mz(B[m(B[0;7md(B[m(B[0;7mq(B[m[37;1H[?1049l[?1l>
+#https://github.com/mancheopenschool/d.hemery.git
+#prochaine fois je ferais sur du vrai code pour mieux mettre en scene
+les config lors des changement de branche:
+#je n'aime pas vim
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#echo "# d.hemery" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git remote add origin https://github.com/mancheopenschool/d.hemery.git
+#git push -u origin master
+#hello
