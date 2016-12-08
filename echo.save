@@ -2,4 +2,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/mancheopenschool/d.hemery.git
-git push -u origin masternannnakldjnsqscq
+git push -u origin master
+ nouveau test avant de courire 
